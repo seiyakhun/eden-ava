@@ -1,7 +1,3 @@
-# Images Folder
-วางภาพทั้งหมดของ EDEN ที่นี่
-
-## โครงสร้างไฟล์
 - eden-logo-white.png  ← โลโก้สีขาว
 - eden-logo-pink.png   ← โลโก้สีชมพู
 - room-living.jpg      ← ภาพห้อง Living Room
